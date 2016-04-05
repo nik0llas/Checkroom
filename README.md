@@ -6,7 +6,7 @@ Esse é o Repositório para o Projeto de Engenharia de Software do Curso de Sist
 
 Sistema de presença na sala de aula
 
-    O projeto foi criado no intuito de armazenar informação sobre ocorrido na aula, desde da entrada do professor na sala de     aula por meio de um código de acesso (podendo criar com auxílio de uma fechadura digital**) que auxiliaria com o problema     de ir em busca de uma chave sempre que se inicia uma nova aula, mas dando foco mais em um sistema de presença de alunos com auxilio de um leito de QRCode.
+    O projeto foi criado no intuito de armazenar informação sobre ocorrido na aula, desde da entrada do professor na sala da /n aula por meio de um código de acesso (podendo criar com auxílio de uma fechadura digital**) que auxiliaria com o problema     de ir em busca de uma chave sempre que se inicia uma nova aula, mas dando foco mais em um sistema de presença de alunos com auxilio de um leito de QRCode.
 
 Com intuito de gerar dados que podem ser usados pela própria federal.
 
