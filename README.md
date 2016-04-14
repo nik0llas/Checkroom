@@ -17,7 +17,7 @@ Com intuito de gerar dados que podem ser usados pela própria federal.
     
 Grupo é composto por:
 
-  - Caio Vieira Araújo de Freitas - cvaf
-  - Francisco Gomes da Silva Junior - fgsj
-  - Ivan Felipe Alves Costa- ifac (Líder)
-  - Nikollas Filgueiras da Silva - nfs2
+  - Caio Vieira Araújo de Freitas - cvaf - Desenvolvedor 
+  - Francisco Gomes da Silva Junior - fgsj - Desenvolvedor
+  - Ivan Felipe Alves Costa- ifac (Líder) - Gerente de Projeto
+  - Nikollas Filgueiras da Silva - nfs2 - Desenvolvedor
