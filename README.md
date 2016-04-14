@@ -8,22 +8,47 @@ Sistema de presença na sala de aula
 
 Descrição:
 
-     O projeto foi criado no intuito de armazenar informação sobre ocorrido na sala de aula, como chamada inicialmente. 
+     O projeto foi criado no intuito de ser ultizado como chamada para auxiliar o professor. 
      
-     Desde do momento que o professor entra na sala e abre um ambiente virtual, que seria no momento 
-     que gera um QRCode até o momento que fecha o ambiente, que seria quando a aula acaba e ele cria
-     um novo QRCode.
+     Desde do momento que o professor inicia a aula até declarar o fim. Podendo assim cada aluno confirma 
+     sua presença pelo celular. E também tendo a opção do professor confirmar manualmente.
      
-     Com isso o sistema vai ter uma tela inicial que usará do API do google para acesso do SaaS, logo 
-     em seguida vai ter um ambiente para o professor/monitor/responsavel pela aula, que seria o gerador de
-     um QRCode, e um ambiente para o estudante que ficaria o leitor do QRCode e um status de 
-     presente/ausente do aluno e aula iniciada/aula terminada/aula cancela da sala de aula.
-     
-     E ainda um ambiente para a coordenação que pode visualizar frequência tanto do aluno como do professor, 
-     podendo ser gráficos ou não.
+     Tela Inicial:
+          Acesso do Professor
+          Acesso do Aluno
+          **Usando API do Google
+          
+     Tela do Professor:
+         Gerador do QRCode
+         Controle dos alunos presente
+               Hora de acesso
+               Hora de saida
+         Cadastro dos alunos manualmente
+         Status da sala de aula:
+               Aula Iniciada
+               Aula Terminada
+               Aula Cancelada
+               
+     Tela do Aluno:
+          Leitor do QRCode
+          Status do aluno:
+               Presente
+               Ausente
+          Número de falta no período
+               
+     Tela da Coordenação:
+          Informações sobre a sala:
+               Data das aulas
+               Hora das aulas
+               Número de alunos matriculados
+               Número de alunos desistentes
+          Gráficos do período
+               Desistência por aula
+               Média da Turma
+               
      
      Futuramente podendo usar dessa plantaforma juntamente com uma fechadura digital e os cartões do aluno com 
-     RFid juntamente com o Caderneta Eletrônica  
+     RFid juntamente com a Caderneta Eletrônica  
    
 Justificativa: 
     
